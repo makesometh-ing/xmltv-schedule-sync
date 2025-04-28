@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="xTeVe" source-info-name="xTeVe - 2.2.0">
+  <channel id="ss_main_event">
+    <display-name>SS Main Event</display-name>
+  </channel>
+  <channel id="ss_news">
+    <display-name>SS News</display-name>
+  </channel>
+</tv>
